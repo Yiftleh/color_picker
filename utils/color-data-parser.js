@@ -1,5 +1,5 @@
 export const showRGB = (red, green, blue) => {
-	return `RGBA: (${red}, ${green}, ${blue})`;
+	return `RGB: (${red}, ${green}, ${blue})`;
 };
 
 export const showHexCode = (red, green, blue) => {
